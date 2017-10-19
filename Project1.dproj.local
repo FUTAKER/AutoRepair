@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.10.15 21:40:51.533.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\umMain.pas</Transaction>
+    <Transaction>2017.10.15 21:41:05.469.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\ucMain.pas</Transaction>
+    <Transaction>2017.10.15 21:41:16.055.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\uvMain.pas</Transaction>
+    <Transaction>2017.10.15 21:41:16.055.dfm,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Руслана\Documents\RAD Studio\Projects\uvMain.dfm</Transaction>
+    <Transaction>2017.10.15 21:45:58.255.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\umMain.pas=D:\Сережа\Офис\Работа\Мастерская\umMain.pas</Transaction>
+    <Transaction>2017.10.15 21:46:00.686.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\uvMain.pas=D:\Сережа\Офис\Работа\Мастерская\uvMain.pas</Transaction>
+    <Transaction>2017.10.15 21:46:00.686.dfm,C:\Users\Руслана\Documents\RAD Studio\Projects\uvMain.dfm=D:\Сережа\Офис\Работа\Мастерская\uvMain.dfm</Transaction>
+    <Transaction>2017.10.15 21:46:01.988.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\ucMain.pas=D:\Сережа\Офис\Работа\Мастерская\ucMain.pas</Transaction>
+    <Transaction>2017.10.15 21:46:04.117.dproj,C:\Users\Руслана\Documents\RAD Studio\Projects\Project1.dproj=D:\Сережа\Офис\Работа\Мастерская\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
